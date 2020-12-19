@@ -1,9 +1,6 @@
 #include <jled.h>
 #include <JC_Button.h>
 
-
-
-
 const int PIN_OUT_LED_1 = 8; //D5
 const int PIN_OUT_LED_2 = 9; //D6
 const int PIN_OUT_LED_3 = 10; //D7
